@@ -73,7 +73,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Border: 0.02
-    - _GlowSwordIntensity: 0
+    - _GlowSwordIntensity: 6.01
     - _NoiseScale: 64.83
     - _NoiseScale2: -0.62
     - _QueueControl: 0
