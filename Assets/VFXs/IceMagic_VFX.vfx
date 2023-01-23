@@ -27,55 +27,19 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614781}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614804}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614583}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614875}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614585}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614591}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614593}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614558}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614569}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614608}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614603}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614847}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614882}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614746}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614761}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614772}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614774}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614881}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614807}
@@ -93,34 +57,13 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614656}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614657}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614668}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614813}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614868}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614885}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614878}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614694}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614720}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614555}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614600}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614889}
@@ -161,25 +104,7 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614953}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614956}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614958}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614965}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614980}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614991}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614993}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614998}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615008}
@@ -194,25 +119,7 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614948}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614950}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615014}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615029}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615040}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615042}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615047}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615308}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615321}
@@ -221,13 +128,7 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614923}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614946}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614960}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614962}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614894}
@@ -236,28 +137,10 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614896}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614919}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615011}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615048}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615063}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615074}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615076}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615085}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615086}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615340}
@@ -295,49 +178,22 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615103}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615126}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615128}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615130}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615153}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615155}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615158}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615160}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615167}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615182}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615193}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615195}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615200}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615210}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615288}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615290}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615293}
@@ -352,46 +208,13 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615247}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615262}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615273}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615275}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615284}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615285}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615213}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615228}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615239}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615241}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615246}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615310}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615327}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615162}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615164}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615340}
@@ -6969,7 +6792,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -26849,7 +26672,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.AnimationCurve, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"frames":[{"time":-0.02324157953262329,"value":0.03558347374200821,"inTangent":0.0,"outTangent":0.0,"tangentMode":0,"leftTangentMode":1,"rightTangentMode":1,"broken":false},{"time":0.4625011384487152,"value":0.03558347374200821,"inTangent":-0.0045673125423491,"outTangent":-0.0045673125423491,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":0.5854233503341675,"value":0.007396966218948364,"inTangent":-0.22930361330509187,"outTangent":-0.22930361330509187,"tangentMode":0,"leftTangentMode":1,"rightTangentMode":1,"broken":false}],"preWrapMode":8,"postWrapMode":8,"version":1}'
+      m_SerializableObject: '{"frames":[{"time":-0.02324157953262329,"value":0.03558347374200821,"inTangent":0.0,"outTangent":0.0,"tangentMode":0,"leftTangentMode":1,"rightTangentMode":1,"broken":false},{"time":0.670172393321991,"value":0.03558347374200821,"inTangent":-0.0045673125423491,"outTangent":-0.0045673125423491,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":0.845647931098938,"value":0.007396966218948364,"inTangent":-0.1606292724609375,"outTangent":-0.1606292724609375,"tangentMode":0,"leftTangentMode":1,"rightTangentMode":1,"broken":false}],"preWrapMode":8,"postWrapMode":8,"version":1}'
     m_Space: 2147483647
   m_Property:
     name: Size
@@ -26912,7 +26735,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":7.706805229187012,"g":24.460731506347658,"b":31.999996185302736,"a":1.0},"time":0.0},{"color":{"r":1.91372549533844,"g":6.08627462387085,"b":8.0,"a":1.0},"time":1.0}],"alphaKeys":[{"alpha":1.0,"time":0.002944991225376725},{"alpha":1.0,"time":0.800000011920929},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":7.706805229187012,"g":24.460731506347658,"b":31.999996185302736,"a":1.0},"time":0.0},{"color":{"r":7.706805229187012,"g":24.460731506347658,"b":31.999996185302736,"a":1.0},"time":1.0}],"alphaKeys":[{"alpha":1.0,"time":0.002944991225376725},{"alpha":1.0,"time":0.7588311433792114},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
     m_Space: 2147483647
   m_Property:
     name: Color
@@ -27148,7 +26971,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.1
+      m_SerializableObject: 0.05
     m_Space: 2147483647
   m_Property:
     name: DelayBeforeLoop
