@@ -15,7 +15,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3006
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -35,14 +35,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _BUILTIN_QueueControl: -1
+    - _BUILTIN_QueueOffset: 0
     - _QueueControl: 0
-    - _QueueOffset: 0
+    - _QueueOffset: 6
     - _Speed: 2
     - _TilingGlobal: 2.36
     - _TilingX: 0.2
     - _TilingY: 1
     m_Colors:
-    - _Color00: {r: 3.2452831, g: 0.6885013, b: 0.35208267, a: 0}
+    - _Color00: {r: 2.9960785, g: 0.6431373, b: 0.32941177, a: 0}
     - _Color01: {r: 1.2219287, g: 0.9042879, b: 0.3515927, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2886197080048510661
@@ -58,3 +60,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 5
+--- !u!114 &5656590950930386696
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
